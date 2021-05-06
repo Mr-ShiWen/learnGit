@@ -7,4 +7,3 @@ master
 abc123
 567
 def1
-23
